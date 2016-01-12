@@ -1,0 +1,14 @@
+#letter {
+  display: none;
+}
+
+.jumbotron {
+  color: white;
+  height: 700px;
+}
+
+.jumbotron {
+background-image: url("http://img2.wikia.nocookie.net/__cb20130514141001/harrypotter/images/3/37/Hogwarts-castle-harry-potter-166431.jpg");
+background-size: 100%;
+repeat: none;
+}
